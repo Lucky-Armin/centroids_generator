@@ -11,23 +11,28 @@ int main(void){
     int check_name = access(output_filename, F_OK); 
     if (check_name != 0) {
 
+
+    int indexC1 = 41;
+    int indexC2 = 43;
+    int indexC3 = 45;
+    int indexC4 = 48;
+    int indexC5 = 50;
+    int indexC6 = 56;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     printf("Programm executed successfully!\n");
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
     }
     else {
